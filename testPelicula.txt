@@ -1,0 +1,5 @@
+ titulo: Iron Man
+ 
+ descripcion: Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae minus doloribus sit autem nulla eveniet voluptas magni, laudantium itaque eos, modi aliquam obcaecati ea! Fugit, obcaecati hic. Esse, quaerat nostrum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae minus doloribus sit autem eveniet voluptas magni, laudantium itaque eos, modi aliquam obc ea! Fugit, obcaecati hic. Esse, quaerat nostrum.
+
+ poster: https://cdn.shopify.com/s/files/1/2437/4099/products/Mark43_900x1272.png?v=1619805143

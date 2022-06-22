@@ -1,0 +1,8 @@
+.formPeliculas {
+  min-width: 45%;
+}
+
+.listaPeliculas {
+  max-height: 80vh;
+  overflow: auto;
+}

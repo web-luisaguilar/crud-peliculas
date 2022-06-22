@@ -1,0 +1,70 @@
+.boxPelicula {
+  min-height: 350px;
+  padding: 2px;
+  max-width: 785px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  border-top: thin solid #ffffff50;
+  border-bottom: thin solid #ffffff50;
+}
+
+.posterPelicula {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 350px;
+  width: 225px;
+  background-image: url(../img/background.png);
+  background-size: contain;
+  background-position: center;
+}
+.posterPelicula img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.descriptionPelicula {
+  width: 450px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.descriptionPelicula h3 {
+  color: lightblue;
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+.descriptionPelicula h4 {
+  color: yellow;
+}
+
+.actionsPelicula {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+}
+.actionsPelicula > button {
+  background-color: transparent;
+  display: block;
+  font-weight: normal;
+  color: white;
+  font-size: 15px;
+  width: 100px;
+  margin: 10px 0;
+  padding: 15px;
+  border: thin solid white;
+}
+.actionsPelicula > button:hover {
+  cursor: pointer;
+  color: cyan;
+  font-weight: bold;
+}
+
+.actionsPelicula > button:active {
+  transform: scale(0.9);
+}
