@@ -1,12 +1,22 @@
 {
   "name": "crud-peliculas",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "description": "CRUD simple con React.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
+  "keywords": [
+    "crud",
+    "js",
+    "react",
+    "css",
+    "responsive"
+  ],
+  "author": "@web-luisaguilar",
+  "license": "MIT",
   "dependencies": {
     "react": "18.0.0",
     "react-dom": "18.0.0"
