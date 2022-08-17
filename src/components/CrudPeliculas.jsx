@@ -15,7 +15,7 @@ const CrudPeliculas = () => {
   };
 
   const deletePelicula = (id) => {
-    let isDelete = confirm('Quiere Eliminar la Pelicula?');
+    let isDelete = window.confirm('Quiere Eliminar la Pelicula?');
     if (isDelete) {
       let newPeliculas = peliculas.filter((pelicula) => pelicula.id !== id);
       setPeliculas(newPeliculas);

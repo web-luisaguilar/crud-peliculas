@@ -6,12 +6,12 @@ Este es un Crud simple de Peliculas
 
 Puedes realizar las siguientes acciones:
 
-- Leer todas las Peliculas
-- Crear una Pelicula
-- Editar una Pelicula
-- Eliminar una Pelicula
+- Leer todas las Peliculas que agregaste en local
+- Agregar una Pelicula en local
+- Editar una Pelicula en local
+- Eliminar una Pelicula en local
 
-**NO** Utiliza Persisitencia de Datos
+**NO** Utiliza Persisitencia de Datos _**es decir no utiliza base de datos**_
 
 > _Los Datos son almacenados simplemente con los Estados de React_
 

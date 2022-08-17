@@ -4,6 +4,7 @@ html {
   font-family: sans-serif;
   background-color: #1b1b1b;
   color: white;
+  overflow-x: hidden;
 }
 
 *,
@@ -63,4 +64,11 @@ input[type='submit']:hover {
 button:active,
 input[type='submit']:active {
   transform: scale(0.9);
+}
+
+footer {
+  background-color: transparent;
+  margin: 0 auto;
+  text-align: center;
+  padding: 0.5rem 1rem;
 }
